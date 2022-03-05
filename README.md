@@ -16,6 +16,7 @@ Instalacion
     pkg intall git
     git clone https://github.com/LikLG-BalooSaurio/Your-IP-is-Mine
     cd Your-IP-is-Mine
+    chmod +x *
     python3 -m pip install -r requirements.txt 
     python3 yIPim.py
 
