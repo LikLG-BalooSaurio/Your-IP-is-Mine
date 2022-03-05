@@ -14,7 +14,7 @@ Instalacion
 ====
     pkg intall python3
     pkg intall git
-    git clone 
+    git clone https://github.com/LikLG-BalooSaurio/Your-IP-is-Mine
     python3 -m pip3 install -r requirements.txt 
     python3 yIPim.py
 
