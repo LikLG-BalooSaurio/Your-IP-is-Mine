@@ -19,7 +19,7 @@ banner = """
 {1} Copyright (c) {2} {3} ({4})
 {1} ip-api.com service will automatically ban any IP addresses doing over 150 requests per minute.
 
-""".format(Red('IPGeolocation ' + __version__), Red('--['), __year__, __author__, __twitter__)
+""".format(Red('Your IP is Mine ' + __version__), Red('--['), __year__, __author__, __twitter__)
 
 
 def checkFileRead(filename):
